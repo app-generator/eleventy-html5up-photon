@@ -1,4 +1,4 @@
-﻿# [Eleventy Html5UP Photon](https://eleventy-html5up-photon.appseed.us)
+# [Eleventy Html5UP Photon](https://appseed.us/static-site)
 
 Static Site prototyped on top of [Eleventy](https://www.11ty.io/) SSG and Photon Design  
 
@@ -14,7 +14,18 @@ Static Site prototyped on top of [Eleventy](https://www.11ty.io/) SSG and Photon
 
 <br />
 
-![Eleventy Html5UP Photon - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/eleventy-html5up-photon-intro.gif?raw=true)
+## Want more? Go PRO!
+
+PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Support** (via [Discord](https://discord.gg/fZC6hup)) 
+
+| [Eleventy Material Kit PRO](https://appseed.us/static-site/eleventy-material-kit-pro) | [Eleventy Paper Kit PRO](https://appseed.us/static-site/eleventy-paper-kit-pro) | [Eleventy Now UI Kit PRO](https://appseed.us/static-site/eleventy-now-ui-kit-pro) |
+| --- | --- | --- |
+| [![Eleventy Material Kit PRO](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-material-kit-pro-screen.png)](https://appseed.us/static-site/eleventy-material-kit-pro)  | [![Eleventy Paper Kit PRO](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-paper-kit-pro-screen.png)](https://appseed.us/static-site/eleventy-paper-kit-pro) | [![Eleventy Now UI Kit PRO](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-now-ui-kit-pro-screen.png)](https://appseed.us/static-site/eleventy-now-ui-kit-pro)
+
+<br />
+<br />
+
+![Eleventy Html5UP Photon - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-photon-screen.png)
 
 <br />
 
@@ -47,4 +58,4 @@ $ # app is running on http://localhost:4000
 <br />
 
 ---
-[Eleventy Html5UP Photon](https://eleventy-html5up-photon.appseed.us) - provided by **AppSeed**
+[Eleventy Html5UP Photon](https://appseed.us/static-site) - provided by **AppSeed**
